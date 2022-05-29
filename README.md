@@ -1,5 +1,5 @@
 # DataScience
-6조 데이터과학 Term Project Github openSouce contribution
+Team15 DataScience Term Project Github openSouce contribution
 ## 1) Source and explanation on the dataset
 ###### Dataset name : Students Adaptability Level in Online Education
 > https://www.kaggle.com/datasets?search=students&sort=votes
